@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color:white;
+   
+    
+}
+body{
+   background-image:url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202410/apj-abdul-kalam-235706401-16x9.jpg?VersionId=QepqZ26HKxrsxkdatxPcbSUm9HwWbz9Y");
+}
+#caption{
+    color:white;
+    text-align: center;
+}
+img{
+    display:block;
+    border-radius: 50%;
+    border: solid;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    height:200px;
+    width:200px;
+}
+button{
+    border-radius: 10px;
+    height:50px;
+    width: 100px;
+    margin-left:46%;
+
+    background-color:blue ;
+     
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+h1{
+    color:rgb(21, 146, 255)
+}
+#caption{
+    color:rgb(21, 146, 255)
+}
